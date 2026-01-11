@@ -6,7 +6,7 @@ Efthimios Kaxiras, “HubbardNet: Efficient predictions
 of the Bose-Hubbard model spectrum with deep neural
 networks,” Physical Review Research 5, 043084 (2023).
 
-1D/2D gorund state: energy-based training using ADAM. Activation function :$\exp$
+1D/2D gorund state: energy-based training using ADAM. Activation function : $\exp$
 
 1D/2D excited states: fractal dimensions-based training using ADAM. Activation function: linear, $\exp$, $\exp(\text{sgn}(u^2))$
 
